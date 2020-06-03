@@ -1,0 +1,8 @@
+C:\Users\cheeh\Documents\GitHub\cpp-cs-communication\cs-library\bin\x64\Debug\cs-library.dll
+C:\Users\cheeh\Documents\GitHub\cpp-cs-communication\cs-library\bin\x64\Debug\cs-library.pdb
+C:\Users\cheeh\Documents\GitHub\cpp-cs-communication\cs-library\obj\x64\Debug\cs-library.csproj.CoreCompileInputs.cache
+C:\Users\cheeh\Documents\GitHub\cpp-cs-communication\cs-library\obj\x64\Debug\cs-library.dll
+C:\Users\cheeh\Documents\GitHub\cpp-cs-communication\cs-library\obj\x64\Debug\cs-library.pdb
+C:\Users\cheeh\Documents\GitHub\cpp-cs-communication\x64\Debug\cs-library.dll
+C:\Users\cheeh\Documents\GitHub\cpp-cs-communication\x64\Debug\cs-library.pdb
+C:\Users\cheeh\Documents\GitHub\cpp-cs-communication\cs-library\obj\x64\Debug\cs-library.csprojAssemblyReference.cache
