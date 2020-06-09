@@ -29,3 +29,5 @@ namespace cs_library
 // Somehow doesn't work for .Net framework 4.7. Using 4.5 for this project.
 
 // If still cannot compile cs library due to the package, reinstall the package with the same architecture (x64).
+
+// Some references from https://jacksondunstan.com/articles/3938
